@@ -3,7 +3,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-###"Install"
+### "Install"
 
 $ clone https://github.com/Vldkvll/Tomnium-tst.git 
 
